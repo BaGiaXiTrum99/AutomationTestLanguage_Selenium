@@ -1,0 +1,30 @@
+{
+  "login": {
+    "title_page_login": "Luxurique | Login",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "login_button": "Login",
+    "welcome_back": "Welcome Back, {{name}}",
+    "continue_with": "Continue with {{provider}}?",
+    "or_login_with": "Or login with:",
+    "ask_account": "Don't have account? ",
+    "sign_up": "Sign up",
+    "des_register": "Enjoy added benefits and richer experience by creating a personal account.",
+    "create_account": "Create account",
+    "login_email": "Login with email",
+    "login_phone": "Login with mobile number",
+    "mobile_number": "Mobile number",
+    "forgot_password": "Forgot password",
+    "phone_number_placeholder": "Input mobile number",
+    "password_placeholder": "Input password",
+    "email_placeholder": "Email@example.com",
+    "or": "Or",
+    "ok": "Ok",
+    "code": "Code",
+    "password_lowercase": "password",
+    "at_least_8_characters": "At least 8 characters.",
+    "must_be_included_uppercase_and_lowercase_letters_numbers": "Must be included uppercase and lowercase letters, numbers.",
+    "contain": "Must be included letters, number and symbols (!@#$%^&*(){}[]<b>,.?/|-_+=`:;\"')."
+  }
+}

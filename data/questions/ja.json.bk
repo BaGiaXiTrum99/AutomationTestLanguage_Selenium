@@ -1,0 +1,30 @@
+{
+  "login": {
+    "title_page_login": "Luxurique | ログイン",
+    "email": "メール",
+    "password": "パスワード",
+    "login": "ログイン",
+    "login_button": "ログイン",
+    "welcome_back": "おかえりなさい、{{name}}",
+    "continue_with": "{{provider}}で続行しますか？",
+    "or_login_with": "または、以下でログインします。",
+    "ask_account": "アカウントをお持ちではありませんか？",
+    "sign_up": "新規登録",
+    "des_register": "個人アカウントを作成することで、さらなる特典と豊かな体験をお楽しみいただけます。",
+    "create_account": "アカウントを作成",
+    "login_email": "メールでログイン",
+    "login_phone": "携帯電話番号でログイン",
+    "mobile_number": "携帯電話番号",
+    "forgot_password": "パスワードを忘れた場合",
+    "phone_number_placeholder": "携帯電話番号を入力",
+    "password_placeholder": "パスワードを入力",
+    "email_placeholder": "Email@example.com",
+    "or": "または",
+    "ok": "わかりました",
+    "code": "コード",
+    "password_lowercase": "パスワード",
+    "at_least_8_characters": "8 文字以上の半角英数字",
+    "must_be_included_uppercase_and_lowercase_letters_numbers": "半角大文字、半角小文字及び数字を組み合わせて入力してください。",
+    "contain": "文字、数字、記号を含む(!@#$%^&*(){}[]<b>,.?/|-_+=`:;\"')。"
+  }
+}

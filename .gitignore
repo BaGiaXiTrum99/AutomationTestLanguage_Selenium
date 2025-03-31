@@ -1,0 +1,14 @@
+# Enviroment
+venv
+.venv
+.env
+
+# Report
+report
+reports
+report.*
+*.xlsx
+
+# cache
+__pycache__
+
